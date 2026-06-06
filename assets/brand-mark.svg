@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title description">
+  <title id="title">BocadoCheck</title>
+  <description id="description">A meal bowl centered inside a nutrition target.</description>
+  <rect width="256" height="256" rx="60" fill="#073f34"/>
+  <circle cx="128" cy="128" r="84" fill="#f7faf6"/>
+  <circle cx="128" cy="128" r="63" fill="#ddebe1"/>
+  <path d="M70 134c21 44 94 46 116 0H70z" fill="#2f7d64"/>
+  <path d="M84 127c15-20 40-27 64-20 12 4 23 11 30 20H84z" fill="#f7faf6"/>
+  <path d="M96 127c11-17 33-23 54-16 10 3 18 9 25 16H96z" fill="#f26b4f"/>
+  <path d="M133 106c7-30 31-40 52-37-2 23-20 40-52 37z" fill="#86c45f"/>
+  <path d="M153 74c-3 15-10 28-20 40" stroke="#4b8f48" stroke-width="4" stroke-linecap="round"/>
+  <path d="M78 114c17-28 45-32 68-23-11 23-35 32-68 23z" fill="#2f7d64"/>
+  <path d="M96 96c10 4 20 10 29 20" stroke="#6db38e" stroke-width="4" stroke-linecap="round"/>
+  <path d="M48 128h37m86 0h37M128 48v37m0 86v37" stroke="#073f34" stroke-width="10" stroke-linecap="round"/>
+  <path d="M46 98a87 87 0 0 1 52-52m60 0a87 87 0 0 1 52 52m0 60a87 87 0 0 1-52 52m-60 0a87 87 0 0 1-52-52" stroke="#073f34" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <circle cx="199" cy="86" r="10" fill="#f26b4f"/>
+  <circle cx="72" cy="182" r="7" fill="#95cdb0"/>
+</svg>
