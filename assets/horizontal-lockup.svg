@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 192" role="img" aria-labelledby="title description">
+  <title id="title">BocadoCheck horizontal logo</title>
+  <description id="description">BocadoCheck bite-check monogram and wordmark.</description>
+  <defs>
+    <mask id="cutouts">
+      <rect width="192" height="192" fill="#fff"/>
+      <circle cx="134" cy="38" r="14" fill="#000"/>
+      <circle cx="148" cy="60" r="12" fill="#000"/>
+      <path d="M43 112 68 137 123 78" fill="none" stroke="#000" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+    </mask>
+  </defs>
+  <path d="M36 18h58c32 0 54 17 54 44 0 16-9 29-25 37 19 6 31 21 31 41 0 31-24 52-61 52H36c-10 0-18-8-18-18V36c0-10 8-18 18-18Z" fill="#0D4539" mask="url(#cutouts)"/>
+  <text x="190" y="130" font-family="Inter, Avenir Next, Nunito Sans, Arial, sans-serif" font-size="108" font-weight="700" letter-spacing="-4">
+    <tspan fill="#0D4539">Bocado</tspan><tspan fill="#167A62">Check</tspan>
+  </text>
+</svg>
