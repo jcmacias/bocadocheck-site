@@ -1,12 +1,12 @@
 :root {
   color-scheme: light;
-  --background: #f7faf6;
+  --background: #f7f9f6;
   --surface: #ffffff;
-  --ink: #17211c;
-  --muted: #66746b;
-  --brand: #2f7d64;
-  --brand-dark: #073f34;
-  --brand-soft: #e7f3ed;
+  --ink: #12201b;
+  --muted: #5f6f67;
+  --brand: #167a62;
+  --brand-dark: #0d4539;
+  --brand-soft: #e4f2ec;
   --accent: #f26b4f;
   --border: #d9e2d9;
   --content: 1080px;
@@ -40,7 +40,7 @@ a:hover {
 }
 
 .site-header {
-  background: rgba(247, 250, 246, 0.96);
+  background: rgba(247, 249, 246, 0.96);
   border-bottom: 1px solid var(--border);
   position: sticky;
   top: 0;
@@ -59,22 +59,14 @@ a:hover {
 
 .brand {
   align-items: center;
-  color: var(--ink);
   display: inline-flex;
-  font-size: 20px;
-  font-weight: 800;
-  gap: 10px;
   text-decoration: none;
 }
 
 .brand img {
-  border-radius: 12px;
-  height: 44px;
-  width: 44px;
-}
-
-.brand span {
-  color: var(--brand);
+  height: auto;
+  object-fit: contain;
+  width: 205px;
 }
 
 .nav-links {
